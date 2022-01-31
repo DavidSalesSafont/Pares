@@ -1,0 +1,20 @@
+h1{font-family: 'Sriracha', cursive;color:white;}
+
+header{background-color:orange;padding:10px 10px;text-align:center;}
+nav{background-color:pink;padding-bottom:20px;}
+#borde{border-right:orange solid 4px;border-left:orange solid 4px;border-top:orange solid 4px;}
+main{background-color:white}
+footer{background-color:yellow;text-align:center;}
+.orange{background-color:orange;}
+.links{position:relative; left:50px;border:solid 2px black;}
+#img1{float:left}
+
+#steve1{color:blue;border-top:blue 20px solid; border-bottom:blue 20px solid;}
+#img2{float:right;}
+#steve2-1{background-color: black;padding-top:30px; padding-bottom:50px;}
+#steve2-2{color:red;border-top:red 20px solid; border-bottom:red 20px solid;}
+
+#bold{font-weight:bold;margin-top:5px;}
+#ultimo{background-color:green;}
+#lista{background-color:white;position:relative;left:35px;width:46.8em;
+  list-style-type: katakana-iroha;}
